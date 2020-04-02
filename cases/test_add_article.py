@@ -6,7 +6,7 @@ d = readyml(r'E:\web_pytest_2020\cases\testdata.yml')
 testdata = d['test_add_param_article']
 
 class Test_add_article():
-
+          '''试试'''
      def test_add_article(self,login):
           '''测试添加文章分类'''
           driver = login
