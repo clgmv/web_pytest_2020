@@ -1,0 +1,5 @@
+
+test_add_param_article:
+    -    ['中国我爱你',True]
+    -    ['China Finghting',True]
+    -    ['23456789',True]
