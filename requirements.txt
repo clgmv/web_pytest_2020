@@ -37,7 +37,7 @@ pyOpenSSL==19.0.0
 pyparsing==2.4.6
 pytest==5.4.1
 pytest-repeat==0.7.0
-python-engineio==3.2.3
+python-engineio==3.8.2.post1
 python-socketio==3.1.1
 python3-memcached==1.51
 PyYAML==5.1.1
