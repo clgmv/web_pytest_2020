@@ -45,11 +45,7 @@ requests==2.22.0
 shellescape==3.4.1
 six==1.12.0
 some-package==0.1
-SQLAlchemy==1.2.16
-unrar==0.3
 urllib3==1.25.3
-wcwidth==0.1.9
-Werkzeug==0.14.1
 winshell==0.6
 xmltodict==0.11.0
 zipp==3.1.0
