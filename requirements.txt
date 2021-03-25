@@ -40,7 +40,7 @@ pytest-repeat==0.7.0
 python-engineio==3.2.3
 python-socketio==3.1.1
 python3-memcached==1.51
-PyYAML==5.1.1
+PyYAML==5.4
 requests==2.22.0
 shellescape==3.4.1
 six==1.12.0
