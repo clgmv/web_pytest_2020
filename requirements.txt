@@ -27,7 +27,7 @@ paramiko==2.4.2
 Pillow==5.4.1
 pluggy==0.13.1
 psutil==5.4.8
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.5
 pycparser==2.19
 pymemcache==2.1.0
